@@ -4,9 +4,11 @@ A quick and dirty watcher for the valve index. It essentially watches the index 
 I wanted to know anytime _anything_ happened so I didn't put filtering of any kind on it. Which means there are a lot of false-positives. I'd also like to point out that it's best to run this on a raspberry pi so you don't have to keep a terminal window open on your own machine. (That guide will be coming upon request or if I have time)
 
 ## Setup 
-Okay, so this is not easy to setup. In my case it's not terrible because I already had a twitter and twilio dev account. I will provide instructions on how to get a Twilio account setup but I will not be going through the Twitter steps yet. If you'd like to contribute them please let me know or make a pull request. I also don't know if Twilio offers services in Europe or other regions so just something to consider. This may only work for US phone numbers. 
+First up, if you're familiar with python, this thing just runs, you fill out the config and go, you probably don't need this guide.
 
-Lastly, this guide is targeted to someone who is at least somewhat tech savvy. If you're already familiar with Python it might be a bit of a slog and I'm sorry. 
+Okay, for those who haven't worked in python this is not easy to setup but not impossible.
+
+Lastly, this guide is targeted to someone who is at least somewhat tech savvy. If you're already familiar with Python it's basically fill out the config, run the python. EZ
 
 ### Get a Twilio Account
 - Visit https://twilio.com
