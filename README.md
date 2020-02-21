@@ -32,10 +32,6 @@ Lastly, this guide is targeted to someone who is at least somewhat tech savvy. I
 - Close Twilio, you're good. The credits should last you a while so no worries.
 
 
-### Info on Twitter Dev Account
-I'm not going to make the instructions at this time for Twitter. It's a bit of a PITA but just know that none of the questions are trick questions and we ONLY WANT TO READ tweets so just be honest and you'll be fine. If you want to skip twitter you can by setting the "checkValveTwitter" setting to "0" instead of "1"
-
-
 ### Installing the thing (Windows)
 Depending on how setup you are already and how techsavvy you are, this might be a pita. I will look into making it easier for sure especially if this round of preorders gets sold out instantly again. 
 
@@ -57,3 +53,6 @@ Depending on how setup you are already and how techsavvy you are, this might be 
 
 I'll eventually refine this a bit, but it really depends on how this restock goes. Also, VIAC is already a superior product, I just wanted texts. 
 
+
+### Info on Twitter Dev Account
+I'm not going to make the instructions at this time for Twitter. It's a bit of a PITA but just know that none of the questions are trick questions and we ONLY WANT TO READ tweets so just be honest and you'll be fine. If you want to skip twitter you can by setting the "checkValveTwitter" setting to "0" instead of "1"
