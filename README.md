@@ -43,6 +43,7 @@ Depending on how setup you are already and how techsavvy you are, this might be 
 - Restart your computer.
 - You can check that it's installed by opening either powershell or cmd and typing "python -v". 
 - There is much better documentation than I could ever write on troubleshooting and using python so I will keep it at that.
+- After you've confirmed it working, you'll need a few pip packages so open a powershell/cmd window and type `pip install twilio bs4 time tweepy`
 - Once you have that download the code from this page (get a zip to make it easier). After that, place it in a folder on your machine, I'd use somewhere in Documents if you aren't sure where to put it. 
 - Now in the IndexWatcher folder open up config.json in Notepad (or anything besides word and wordpad, I'd recommend VSCODE)
 - Now if you're unfamiliar with JSON left of the _:_ is setting name, right of it is the value. 
