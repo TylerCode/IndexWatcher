@@ -1,0 +1,12 @@
+{
+    "watchUrl":"https://store.steampowered.com/valveindex",
+    "twilioAccountSID":"accountSID",
+    "twilioAccountToken":"accountToken",
+    "twilioPhoneNumber":"phoneNumber",
+    "yourPhoneNumber":"phoneNumber",
+    "checkValveTwitter":"1",
+    "twitterConsumerKey":"consumerKey",
+    "twitterConsumerSecret":"consumerSecret",
+    "twitterAccessToken":"twitterAccessToken",
+    "twitterAccessSecret":"twitterAccessSecret"
+}
