@@ -6,9 +6,7 @@ I wanted to know anytime _anything_ happened so I didn't put filtering of any ki
 ## Setup 
 First up, if you're familiar with python, this thing just runs, you fill out the config and go, you probably don't need this guide.
 
-Okay, for those who haven't worked in python this is not easy to setup but not impossible.
-
-Lastly, this guide is targeted to someone who is at least somewhat tech savvy. If you're already familiar with Python it's basically fill out the config, run the python. EZ
+Okay, for those who haven't worked in python this is not _easy_ to setup but not *impossible*.
 
 ### Get a Twilio Account
 - Visit https://twilio.com
