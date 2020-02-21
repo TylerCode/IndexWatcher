@@ -8,7 +8,7 @@ First up, if you're familiar with python, this thing just runs, you fill out the
 
 Okay, for those who haven't worked in python this is not _easy_ to setup but not *impossible*.
 
-### Get a Twilio Account
+### Get a FREE Twilio Account
 - Visit https://twilio.com
 - "Sign up for free"
 - Verify your email
