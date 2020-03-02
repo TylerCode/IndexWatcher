@@ -5,6 +5,7 @@ from twilio.rest import Client
 import os
 import tweepy as tw
 import json
+from subprocess import call
 
 # I'm aware that this code is BAD. It's okay, it was quick and dirty and never meant
 # to be shared. Originally written by TylerCode and released under the MIT license. 
@@ -76,12 +77,14 @@ def main():
 
         if new_tweet.text != last_tweet and twitter_check == "1":
             message_text = "NEW VALVE TWEET: " + new_tweet.text
+            call(["play synth.mp3"])
             send_text(message_text)
             last_tweet = new_tweet.text
             print(message_text)
 
         if str(soup).find("Notify Me") != instances_found:
             message_text = "Notify me changed from " + str(instances_found) + " to " + str(str(soup).find("Notify Me")) + ". Dont get your hopes up, but it might be time..."
+            call(["play valve.mp3"])
             send_text(message_text)
             instances_found = str(soup).find("Notify Me")
             print(message_text)
